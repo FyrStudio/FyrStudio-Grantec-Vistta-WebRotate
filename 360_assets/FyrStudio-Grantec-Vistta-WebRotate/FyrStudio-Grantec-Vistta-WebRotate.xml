@@ -1,0 +1,724 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/FyrStudio-Grantec-Vistta-RowImage00.jpg" />
+    <userInterface showProgressPulse="false" showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" showProgressBar="true" skin="basic" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" dragAcceleration="1" centerZoom="false" maxZoom="100" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" spinOnPageScroll="false" pageScrollFollow="false" pageScrollDelay="300" pageScrollPeriod="3" autoPlayOnDragRelease="false" />
+  </settings>
+  <hotspots>
+    <hotspot id="Quadra Saibro" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-10-QuadraTenis-Final.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Piscina Externa" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-36-PiscinaAerea1-Final_1.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Playground" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec_Vistta-18-Playground-Final.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Portaria" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-04-PortariaSalaoFestas-Final.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Salão de Festas" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-11-SalaoFestasFachada01_Final.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Aérea" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-01-Fotomontagem01-Final.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Aérea 2" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-02-Fotomontagem02-Final.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Piscina Interna" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-40-PiscinaInterna2-Final2.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Pool bar" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-20-PoolBar-Final2.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Aérea 3" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-08-VooGeral_Final.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Portaria Frontal" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-03-PortariaFrontal_Prv1.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Terraço" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-06-TerracoCasa1-Prv01.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Aérea 4" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-09-AereaLazerQuadras_Prv1.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Churrasqueira" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-15-Churrasqueira-Prv1.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="PetPlace" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-19-PetPlace-Prv01.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="salão de Jogos" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-25-Salaodejogos-prv1.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Brinquedoteca" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-22-Brinquedoteca-prv1.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Salão de Festas Interno" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-40-SalaodeFesta-prv1.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+    <hotspot id="Academia" renderMode="1" indicatorImage="geo-short-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/IMG_5936.jpg" imgWidth="1920" imgNoScale="true" />
+    </hotspot>
+  </hotspots>
+  <images rows="1" highresWidth="3000" highresHeight="1688">
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage01.jpg">
+      <hotspot source="Portaria" offsetX="689" offsetY="806" />
+      <hotspot source="Salão de Festas" offsetX="719" offsetY="702" />
+      <hotspot source="Aérea" offsetX="994" offsetY="155" />
+      <hotspot source="Aérea 2" offsetX="938" offsetY="610" />
+      <hotspot source="Aérea 3" offsetX="971" offsetY="221" />
+      <hotspot source="Portaria Frontal" offsetX="803" offsetY="733" />
+      <hotspot source="Terraço" offsetX="674" offsetY="628" />
+      <hotspot source="PetPlace" offsetX="767" offsetY="641" />
+      <hotspot source="Salão de Festas Interno" offsetX="655" offsetY="651" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage01.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage02.jpg">
+      <hotspot source="Portaria" offsetX="607" offsetY="786" />
+      <hotspot source="Salão de Festas" offsetX="654" offsetY="692" />
+      <hotspot source="Aérea" offsetX="1045" offsetY="151" />
+      <hotspot source="Aérea 2" offsetX="890" offsetY="610" />
+      <hotspot source="Aérea 3" offsetX="1015" offsetY="227" />
+      <hotspot source="Portaria Frontal" offsetX="729" offsetY="717" />
+      <hotspot source="Terraço" offsetX="611" offsetY="607" />
+      <hotspot source="PetPlace" offsetX="714" offsetY="628" />
+      <hotspot source="Salão de Festas Interno" offsetX="599" offsetY="631" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage02.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage03.jpg">
+      <hotspot source="Portaria" offsetX="518" offsetY="762" />
+      <hotspot source="Salão de Festas" offsetX="589" offsetY="671" />
+      <hotspot source="Aérea" offsetX="1097" offsetY="154" />
+      <hotspot source="Aérea 2" offsetX="838" offsetY="609" />
+      <hotspot source="Aérea 3" offsetX="1067" offsetY="230" />
+      <hotspot source="Portaria Frontal" offsetX="655" offsetY="699" />
+      <hotspot source="Terraço" offsetX="567" offsetY="585" />
+      <hotspot source="PetPlace" offsetX="665" offsetY="615" />
+      <hotspot source="Salão de Festas Interno" offsetX="543" offsetY="609" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage03.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage04.jpg">
+      <hotspot source="Portaria" offsetX="446" offsetY="732" />
+      <hotspot source="Salão de Festas" offsetX="536" offsetY="646" />
+      <hotspot source="Aérea" offsetX="1147" offsetY="154" />
+      <hotspot source="Aérea 2" offsetX="786" offsetY="606" />
+      <hotspot source="Aérea 3" offsetX="1113" offsetY="237" />
+      <hotspot source="Portaria Frontal" offsetX="590" offsetY="680" />
+      <hotspot source="Terraço" offsetX="532" offsetY="566" />
+      <hotspot source="PetPlace" offsetX="613" offsetY="595" />
+      <hotspot source="Salão de Festas Interno" offsetX="499" offsetY="584" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage04.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage05.jpg">
+      <hotspot source="Portaria" offsetX="388" offsetY="699" />
+      <hotspot source="Salão de Festas" offsetX="488" offsetY="622" />
+      <hotspot source="Aérea" offsetX="1206" offsetY="154" />
+      <hotspot source="Aérea 2" offsetX="739" offsetY="597" />
+      <hotspot source="Aérea 3" offsetX="1158" offsetY="243" />
+      <hotspot source="Portaria Frontal" offsetX="530" offsetY="659" />
+      <hotspot source="Terraço" offsetX="495" offsetY="542" />
+      <hotspot source="PetPlace" offsetX="570" offsetY="574" />
+      <hotspot source="Salão de Festas Interno" offsetX="463" offsetY="563" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage05.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage06.jpg">
+      <hotspot source="Portaria" offsetX="338" offsetY="663" />
+      <hotspot source="Salão de Festas" offsetX="446" offsetY="595" />
+      <hotspot source="Aérea" offsetX="1253" offsetY="152" />
+      <hotspot source="Aérea 2" offsetX="692" offsetY="580" />
+      <hotspot source="Aérea 3" offsetX="1201" offsetY="252" />
+      <hotspot source="Portaria Frontal" offsetX="481" offsetY="633" />
+      <hotspot source="Terraço" offsetX="468" offsetY="518" />
+      <hotspot source="PetPlace" offsetX="542" offsetY="557" />
+      <hotspot source="Salão de Festas Interno" offsetX="433" offsetY="538" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage06.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage07.jpg">
+      <hotspot source="Portaria" offsetX="297" offsetY="627" />
+      <hotspot source="Salão de Festas" offsetX="414" offsetY="565" />
+      <hotspot source="Aérea" offsetX="1290" offsetY="159" />
+      <hotspot source="Aérea 2" offsetX="653" offsetY="566" />
+      <hotspot source="Aérea 3" offsetX="1246" offsetY="262" />
+      <hotspot source="Portaria Frontal" offsetX="434" offsetY="605" />
+      <hotspot source="PetPlace" offsetX="513" offsetY="532" />
+      <hotspot source="Salão de Festas Interno" offsetX="411" offsetY="508" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage07.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage08.jpg">
+      <hotspot source="Aérea" offsetX="1335" offsetY="176" />
+      <hotspot source="Aérea 2" offsetX="616" offsetY="550" />
+      <hotspot source="Aérea 3" offsetX="1286" offsetY="273" />
+      <hotspot source="PetPlace" offsetX="493" offsetY="513" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage08.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage09.jpg">
+      <hotspot source="Aérea" offsetX="1391" offsetY="203" />
+      <hotspot source="Aérea 2" offsetX="587" offsetY="535" />
+      <hotspot source="Aérea 3" offsetX="1326" offsetY="291" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage09.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage10.jpg">
+      <hotspot source="Aérea" offsetX="1418" offsetY="217" />
+      <hotspot source="Aérea 2" offsetX="553" offsetY="517" />
+      <hotspot source="Aérea 3" offsetX="1374" offsetY="306" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage10.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage11.jpg">
+      <hotspot source="Aérea" offsetX="1450" offsetY="237" />
+      <hotspot source="Aérea 2" offsetX="540" offsetY="496" />
+      <hotspot source="Aérea 3" offsetX="1417" offsetY="321" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage11.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage12.jpg">
+      <hotspot source="Aérea" offsetX="1486" offsetY="254" />
+      <hotspot source="Aérea 2" offsetX="528" offsetY="475" />
+      <hotspot source="Aérea 3" offsetX="1456" offsetY="340" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage12.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage13.jpg">
+      <hotspot source="Aérea" offsetX="1525" offsetY="284" />
+      <hotspot source="Aérea 2" offsetX="524" offsetY="452" />
+      <hotspot source="Aérea 3" offsetX="1493" offsetY="362" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage13.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage14.jpg">
+      <hotspot source="Aérea" offsetX="1565" offsetY="317" />
+      <hotspot source="Aérea 2" offsetX="516" offsetY="428" />
+      <hotspot source="Aérea 3" offsetX="1524" offsetY="386" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage14.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage15.jpg">
+      <hotspot source="Aérea" offsetX="1609" offsetY="355" />
+      <hotspot source="Aérea 2" offsetX="509" offsetY="407" />
+      <hotspot source="Aérea 3" offsetX="1552" offsetY="416" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage15.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage16.jpg">
+      <hotspot source="Aérea" offsetX="1635" offsetY="399" />
+      <hotspot source="Aérea 2" offsetX="516" offsetY="389" />
+      <hotspot source="Aérea 3" offsetX="1575" offsetY="444" />
+      <hotspot source="Aérea 4" offsetX="1640" offsetY="554" />
+      <hotspot source="Churrasqueira" offsetX="1533" offsetY="486" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage16.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage17.jpg">
+      <hotspot source="Aérea" offsetX="1668" offsetY="442" />
+      <hotspot source="Aérea 2" offsetX="529" offsetY="368" />
+      <hotspot source="Aérea 3" offsetX="1589" offsetY="475" />
+      <hotspot source="Aérea 4" offsetX="1644" offsetY="593" />
+      <hotspot source="Churrasqueira" offsetX="1542" offsetY="518" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage17.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage18.jpg">
+      <hotspot source="Aérea" offsetX="1677" offsetY="487" />
+      <hotspot source="Aérea 2" offsetX="549" offsetY="352" />
+      <hotspot source="Aérea 4" offsetX="1641" offsetY="630" />
+      <hotspot source="Churrasqueira" offsetX="1538" offsetY="550" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage18.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage19.jpg">
+      <hotspot source="Aérea" offsetX="1686" offsetY="547" />
+      <hotspot source="Aérea 2" offsetX="563" offsetY="328" />
+      <hotspot source="Aérea 4" offsetX="1626" offsetY="670" />
+      <hotspot source="Churrasqueira" offsetX="1524" offsetY="580" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage19.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage20.jpg">
+      <hotspot source="Aérea" offsetX="1688" offsetY="597" />
+      <hotspot source="Aérea 2" offsetX="577" offsetY="308" />
+      <hotspot source="Pool bar" offsetX="1553" offsetY="543" />
+      <hotspot source="Aérea 4" offsetX="1597" offsetY="714" />
+      <hotspot source="Churrasqueira" offsetX="1506" offsetY="609" />
+      <hotspot source="Academia" offsetX="1571" offsetY="514" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage20.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage21.jpg">
+      <hotspot source="Quadra Saibro" offsetX="1511" offsetY="702" />
+      <hotspot source="Aérea" offsetX="1692" offsetY="644" />
+      <hotspot source="Aérea 2" offsetX="597" offsetY="289" />
+      <hotspot source="Pool bar" offsetX="1544" offsetY="581" />
+      <hotspot source="Aérea 4" offsetX="1566" offsetY="760" />
+      <hotspot source="Churrasqueira" offsetX="1490" offsetY="645" />
+      <hotspot source="Academia" offsetX="1564" offsetY="551" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage21.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage22.jpg">
+      <hotspot source="Quadra Saibro" offsetX="1466" offsetY="737" />
+      <hotspot source="Aérea" offsetX="1688" offsetY="698" />
+      <hotspot source="Aérea 2" offsetX="623" offsetY="273" />
+      <hotspot source="Piscina Interna" offsetX="1582" offsetY="537" />
+      <hotspot source="Pool bar" offsetX="1524" offsetY="616" />
+      <hotspot source="Aérea 4" offsetX="1516" offsetY="798" />
+      <hotspot source="Churrasqueira" offsetX="1448" offsetY="682" />
+      <hotspot source="Brinquedoteca" offsetX="1493" offsetY="665" />
+      <hotspot source="Academia" offsetX="1553" offsetY="589" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage22.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage23.jpg">
+      <hotspot source="Quadra Saibro" offsetX="1415" offsetY="777" />
+      <hotspot source="Aérea" offsetX="1674" offsetY="738" />
+      <hotspot source="Aérea 2" offsetX="654" offsetY="256" />
+      <hotspot source="Piscina Interna" offsetX="1567" offsetY="577" />
+      <hotspot source="Pool bar" offsetX="1502" offsetY="651" />
+      <hotspot source="Aérea 4" offsetX="1456" offsetY="838" />
+      <hotspot source="Churrasqueira" offsetX="1410" offsetY="711" />
+      <hotspot source="salão de Jogos" offsetX="1491" offsetY="675" />
+      <hotspot source="Brinquedoteca" offsetX="1458" offsetY="700" />
+      <hotspot source="Academia" offsetX="1529" offsetY="627" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage23.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage24.jpg">
+      <hotspot source="Quadra Saibro" offsetX="1356" offsetY="809" />
+      <hotspot source="Aérea" offsetX="1650" offsetY="775" />
+      <hotspot source="Aérea 2" offsetX="683" offsetY="246" />
+      <hotspot source="Piscina Interna" offsetX="1552" offsetY="607" />
+      <hotspot source="Pool bar" offsetX="1468" offsetY="685" />
+      <hotspot source="Aérea 4" offsetX="1381" offsetY="878" />
+      <hotspot source="Churrasqueira" offsetX="1362" offsetY="743" />
+      <hotspot source="salão de Jogos" offsetX="1453" offsetY="713" />
+      <hotspot source="Brinquedoteca" offsetX="1414" offsetY="727" />
+      <hotspot source="Academia" offsetX="1499" offsetY="664" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage24.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage25.jpg">
+      <hotspot source="Quadra Saibro" offsetX="1288" offsetY="836" />
+      <hotspot source="Piscina Externa" offsetX="1532" offsetY="732" />
+      <hotspot source="Playground" offsetX="1592" offsetY="719" />
+      <hotspot source="Aérea" offsetX="1606" offsetY="822" />
+      <hotspot source="Aérea 2" offsetX="716" offsetY="232" />
+      <hotspot source="Piscina Interna" offsetX="1521" offsetY="646" />
+      <hotspot source="Pool bar" offsetX="1423" offsetY="721" />
+      <hotspot source="Aérea 4" offsetX="1299" offsetY="910" />
+      <hotspot source="Churrasqueira" offsetX="1301" offsetY="770" />
+      <hotspot source="salão de Jogos" offsetX="1405" offsetY="748" />
+      <hotspot source="Brinquedoteca" offsetX="1359" offsetY="764" />
+      <hotspot source="Academia" offsetX="1461" offsetY="703" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage25.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage26.jpg">
+      <hotspot source="Quadra Saibro" offsetX="1208" offsetY="862" />
+      <hotspot source="Piscina Externa" offsetX="1480" offsetY="772" />
+      <hotspot source="Playground" offsetX="1550" offsetY="761" />
+      <hotspot source="Aérea" offsetX="1545" offsetY="866" />
+      <hotspot source="Aérea 2" offsetX="759" offsetY="222" />
+      <hotspot source="Piscina Interna" offsetX="1493" offsetY="679" />
+      <hotspot source="Pool bar" offsetX="1362" offsetY="748" />
+      <hotspot source="Aérea 4" offsetX="1207" offsetY="935" />
+      <hotspot source="Churrasqueira" offsetX="1231" offsetY="790" />
+      <hotspot source="salão de Jogos" offsetX="1347" offsetY="780" />
+      <hotspot source="Brinquedoteca" offsetX="1299" offsetY="795" />
+      <hotspot source="Academia" offsetX="1409" offsetY="737" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage26.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage27.jpg">
+      <hotspot source="Quadra Saibro" offsetX="1124" offsetY="880" />
+      <hotspot source="Piscina Externa" offsetX="1420" offsetY="809" />
+      <hotspot source="Playground" offsetX="1493" offsetY="803" />
+      <hotspot source="Aérea" offsetX="1481" offsetY="908" />
+      <hotspot source="Aérea 2" offsetX="795" offsetY="209" />
+      <hotspot source="Piscina Interna" offsetX="1440" offsetY="718" />
+      <hotspot source="Pool bar" offsetX="1309" offsetY="780" />
+      <hotspot source="Aérea 4" offsetX="1108" offsetY="949" />
+      <hotspot source="Churrasqueira" offsetX="1168" offsetY="818" />
+      <hotspot source="salão de Jogos" offsetX="1280" offsetY="805" />
+      <hotspot source="Brinquedoteca" offsetX="1225" offsetY="815" />
+      <hotspot source="Academia" offsetX="1343" offsetY="765" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage27.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage28.jpg">
+      <hotspot source="Quadra Saibro" offsetX="1034" offsetY="890" />
+      <hotspot source="Piscina Externa" offsetX="1346" offsetY="844" />
+      <hotspot source="Playground" offsetX="1428" offsetY="841" />
+      <hotspot source="Aérea" offsetX="1397" offsetY="949" />
+      <hotspot source="Aérea 2" offsetX="831" offsetY="203" />
+      <hotspot source="Piscina Interna" offsetX="1382" offsetY="757" />
+      <hotspot source="Pool bar" offsetX="1231" offsetY="809" />
+      <hotspot source="Aérea 4" offsetX="1001" offsetY="958" />
+      <hotspot source="Churrasqueira" offsetX="1086" offsetY="833" />
+      <hotspot source="salão de Jogos" offsetX="1202" offsetY="832" />
+      <hotspot source="Brinquedoteca" offsetX="1146" offsetY="837" />
+      <hotspot source="Academia" offsetX="1272" offsetY="794" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage28.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage29.jpg">
+      <hotspot source="Quadra Saibro" offsetX="943" offsetY="895" />
+      <hotspot source="Piscina Externa" offsetX="1265" offsetY="871" />
+      <hotspot source="Playground" offsetX="1348" offsetY="876" />
+      <hotspot source="Aérea" offsetX="1298" offsetY="971" />
+      <hotspot source="Aérea 2" offsetX="872" offsetY="197" />
+      <hotspot source="Piscina Interna" offsetX="1319" offsetY="780" />
+      <hotspot source="Pool bar" offsetX="1165" offsetY="825" />
+      <hotspot source="Aérea 4" offsetX="891" offsetY="955" />
+      <hotspot source="Churrasqueira" offsetX="998" offsetY="839" />
+      <hotspot source="salão de Jogos" offsetX="1123" offsetY="846" />
+      <hotspot source="Brinquedoteca" offsetX="1064" offsetY="849" />
+      <hotspot source="Academia" offsetX="1192" offsetY="814" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage29.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage30.jpg">
+      <hotspot source="Quadra Saibro" offsetX="844" offsetY="889" />
+      <hotspot source="Piscina Externa" offsetX="1175" offsetY="892" />
+      <hotspot source="Playground" offsetX="1254" offsetY="902" />
+      <hotspot source="Aérea" offsetX="1172" offsetY="994" />
+      <hotspot source="Aérea 2" offsetX="912" offsetY="192" />
+      <hotspot source="Piscina Interna" offsetX="1245" offsetY="811" />
+      <hotspot source="Pool bar" offsetX="1082" offsetY="842" />
+      <hotspot source="Aérea 4" offsetX="789" offsetY="945" />
+      <hotspot source="Churrasqueira" offsetX="912" offsetY="837" />
+      <hotspot source="salão de Jogos" offsetX="1035" offsetY="858" />
+      <hotspot source="Brinquedoteca" offsetX="976" offsetY="856" />
+      <hotspot source="Salão de Festas Interno" offsetX="1319" offsetY="668" />
+      <hotspot source="Academia" offsetX="1104" offsetY="829" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage30.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage31.jpg">
+      <hotspot source="Quadra Saibro" offsetX="758" offsetY="878" />
+      <hotspot source="Piscina Externa" offsetX="1079" offsetY="908" />
+      <hotspot source="Playground" offsetX="1159" offsetY="926" />
+      <hotspot source="Aérea" offsetX="1056" offsetY="1011" />
+      <hotspot source="Aérea 2" offsetX="955" offsetY="194" />
+      <hotspot source="Piscina Interna" offsetX="1151" offsetY="831" />
+      <hotspot source="Pool bar" offsetX="992" offsetY="848" />
+      <hotspot source="Aérea 4" offsetX="682" offsetY="926" />
+      <hotspot source="Churrasqueira" offsetX="825" offsetY="832" />
+      <hotspot source="salão de Jogos" offsetX="947" offsetY="861" />
+      <hotspot source="Brinquedoteca" offsetX="887" offsetY="857" />
+      <hotspot source="Academia" offsetX="1011" offsetY="841" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage31.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage32.jpg">
+      <hotspot source="Quadra Saibro" offsetX="676" offsetY="860" />
+      <hotspot source="Piscina Externa" offsetX="974" offsetY="913" />
+      <hotspot source="Playground" offsetX="1055" offsetY="935" />
+      <hotspot source="Aérea" offsetX="930" offsetY="1014" />
+      <hotspot source="Aérea 2" offsetX="1001" offsetY="193" />
+      <hotspot source="Piscina Interna" offsetX="1064" offsetY="843" />
+      <hotspot source="Pool bar" offsetX="901" offsetY="848" />
+      <hotspot source="Aérea 4" offsetX="587" offsetY="909" />
+      <hotspot source="Churrasqueira" offsetX="740" offsetY="823" />
+      <hotspot source="salão de Jogos" offsetX="859" offsetY="859" />
+      <hotspot source="Brinquedoteca" offsetX="800" offsetY="847" />
+      <hotspot source="Academia" offsetX="915" offsetY="840" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage32.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage33.jpg">
+      <hotspot source="Quadra Saibro" offsetX="595" offsetY="837" />
+      <hotspot source="Piscina Externa" offsetX="876" offsetY="908" />
+      <hotspot source="Playground" offsetX="949" offsetY="939" />
+      <hotspot source="Aérea" offsetX="828" offsetY="1009" />
+      <hotspot source="Aérea 2" offsetX="1044" offsetY="197" />
+      <hotspot source="Piscina Interna" offsetX="965" offsetY="843" />
+      <hotspot source="Pool bar" offsetX="810" offsetY="840" />
+      <hotspot source="Aérea 4" offsetX="503" offsetY="878" />
+      <hotspot source="Churrasqueira" offsetX="670" offsetY="803" />
+      <hotspot source="salão de Jogos" offsetX="776" offsetY="848" />
+      <hotspot source="Brinquedoteca" offsetX="716" offsetY="834" />
+      <hotspot source="Academia" offsetX="824" offsetY="836" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage33.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage34.jpg">
+      <hotspot source="Quadra Saibro" offsetX="524" offsetY="809" />
+      <hotspot source="Piscina Externa" offsetX="774" offsetY="902" />
+      <hotspot source="Playground" offsetX="842" offsetY="937" />
+      <hotspot source="Aérea" offsetX="695" offsetY="987" />
+      <hotspot source="Aérea 2" offsetX="1089" offsetY="200" />
+      <hotspot source="Piscina Interna" offsetX="877" offsetY="842" />
+      <hotspot source="Pool bar" offsetX="724" offsetY="824" />
+      <hotspot source="Aérea 4" offsetX="427" offsetY="833" />
+      <hotspot source="Churrasqueira" offsetX="597" offsetY="778" />
+      <hotspot source="salão de Jogos" offsetX="693" offsetY="828" />
+      <hotspot source="Brinquedoteca" offsetX="643" offsetY="813" />
+      <hotspot source="Academia" offsetX="738" offsetY="822" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage34.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage35.jpg">
+      <hotspot source="Quadra Saibro" offsetX="464" offsetY="775" />
+      <hotspot source="Piscina Externa" offsetX="677" offsetY="884" />
+      <hotspot source="Playground" offsetX="738" offsetY="920" />
+      <hotspot source="Aérea" offsetX="579" offsetY="966" />
+      <hotspot source="Aérea 2" offsetX="1128" offsetY="206" />
+      <hotspot source="Piscina Interna" offsetX="782" offsetY="830" />
+      <hotspot source="Aérea 4" offsetX="368" offsetY="793" />
+      <hotspot source="Churrasqueira" offsetX="536" offsetY="752" />
+      <hotspot source="salão de Jogos" offsetX="617" offsetY="805" />
+      <hotspot source="Brinquedoteca" offsetX="573" offsetY="786" />
+      <hotspot source="Academia" offsetX="654" offsetY="803" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage35.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage36.jpg">
+      <hotspot source="Quadra Saibro" offsetX="412" offsetY="736" />
+      <hotspot source="Piscina Externa" offsetX="594" offsetY="858" />
+      <hotspot source="Playground" offsetX="643" offsetY="900" />
+      <hotspot source="Aérea" offsetX="494" offsetY="949" />
+      <hotspot source="Aérea 2" offsetX="1170" offsetY="214" />
+      <hotspot source="Piscina Interna" offsetX="697" offsetY="813" />
+      <hotspot source="Aérea 4" offsetX="319" offsetY="743" />
+      <hotspot source="Churrasqueira" offsetX="483" offsetY="721" />
+      <hotspot source="salão de Jogos" offsetX="547" offsetY="777" />
+      <hotspot source="Brinquedoteca" offsetX="511" offsetY="751" />
+      <hotspot source="Academia" offsetX="581" offsetY="778" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage36.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage37.jpg">
+      <hotspot source="Quadra Saibro" offsetX="377" offsetY="697" />
+      <hotspot source="Piscina Externa" offsetX="520" offsetY="829" />
+      <hotspot source="Playground" offsetX="553" offsetY="867" />
+      <hotspot source="Aérea" offsetX="399" offsetY="906" />
+      <hotspot source="Aérea 2" offsetX="1205" offsetY="225" />
+      <hotspot source="Piscina Interna" offsetX="619" offsetY="787" />
+      <hotspot source="Aérea 4" offsetX="285" offsetY="699" />
+      <hotspot source="Churrasqueira" offsetX="441" offsetY="685" />
+      <hotspot source="salão de Jogos" offsetX="489" offsetY="743" />
+      <hotspot source="Brinquedoteca" offsetX="459" offsetY="721" />
+      <hotspot source="Academia" offsetX="517" offsetY="748" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage37.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage38.jpg">
+      <hotspot source="Quadra Saibro" offsetX="347" offsetY="657" />
+      <hotspot source="Piscina Externa" offsetX="452" offsetY="791" />
+      <hotspot source="Playground" offsetX="472" offsetY="834" />
+      <hotspot source="Aérea" offsetX="314" offsetY="857" />
+      <hotspot source="Aérea 2" offsetX="1246" offsetY="232" />
+      <hotspot source="Piscina Interna" offsetX="555" offsetY="766" />
+      <hotspot source="Aérea 4" offsetX="258" offsetY="654" />
+      <hotspot source="Churrasqueira" offsetX="407" offsetY="652" />
+      <hotspot source="Brinquedoteca" offsetX="418" offsetY="685" />
+      <hotspot source="Academia" offsetX="462" offsetY="717" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage38.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage39.jpg">
+      <hotspot source="Quadra Saibro" offsetX="325" offsetY="615" />
+      <hotspot source="Piscina Externa" offsetX="398" offsetY="752" />
+      <hotspot source="Playground" offsetX="409" offsetY="791" />
+      <hotspot source="Aérea" offsetX="254" offsetY="802" />
+      <hotspot source="Aérea 2" offsetX="1280" offsetY="251" />
+      <hotspot source="Piscina Interna" offsetX="489" offsetY="733" />
+      <hotspot source="Aérea 4" offsetX="249" offsetY="610" />
+      <hotspot source="Churrasqueira" offsetX="380" offsetY="615" />
+      <hotspot source="Brinquedoteca" offsetX="388" offsetY="648" />
+      <hotspot source="Academia" offsetX="416" offsetY="682" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage39.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage40.jpg">
+      <hotspot source="Piscina Externa" offsetX="354" offsetY="713" />
+      <hotspot source="Playground" offsetX="351" offsetY="748" />
+      <hotspot source="Aérea" offsetX="217" offsetY="742" />
+      <hotspot source="Aérea 2" offsetX="1314" offsetY="267" />
+      <hotspot source="Piscina Interna" offsetX="438" offsetY="695" />
+      <hotspot source="Aérea 4" offsetX="243" offsetY="563" />
+      <hotspot source="Churrasqueira" offsetX="366" offsetY="576" />
+      <hotspot source="Academia" offsetX="381" offsetY="642" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage40.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage41.jpg">
+      <hotspot source="Piscina Externa" offsetX="324" offsetY="668" />
+      <hotspot source="Playground" offsetX="311" offsetY="702" />
+      <hotspot source="Aérea" offsetX="200" offsetY="663" />
+      <hotspot source="Aérea 2" offsetX="1335" offsetY="286" />
+      <hotspot source="Piscina Interna" offsetX="402" offsetY="656" />
+      <hotspot source="Churrasqueira" offsetX="359" offsetY="543" />
+      <hotspot source="Academia" offsetX="354" offsetY="605" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage41.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage42.jpg">
+      <hotspot source="Piscina Externa" offsetX="298" offsetY="627" />
+      <hotspot source="Playground" offsetX="286" offsetY="660" />
+      <hotspot source="Aérea" offsetX="173" offsetY="594" />
+      <hotspot source="Aérea 2" offsetX="1365" offsetY="306" />
+      <hotspot source="Piscina Interna" offsetX="368" offsetY="618" />
+      <hotspot source="Academia" offsetX="338" offsetY="566" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage42.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage43.jpg">
+      <hotspot source="Piscina Externa" offsetX="295" offsetY="613" />
+      <hotspot source="Playground" offsetX="269" offsetY="612" />
+      <hotspot source="Aérea" offsetX="171" offsetY="550" />
+      <hotspot source="Aérea 2" offsetX="1386" offsetY="328" />
+      <hotspot source="Piscina Interna" offsetX="349" offsetY="586" />
+      <hotspot source="Academia" offsetX="329" offsetY="530" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage43.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage44.jpg">
+      <hotspot source="Aérea" offsetX="173" offsetY="514" />
+      <hotspot source="Aérea 2" offsetX="1402" offsetY="349" />
+      <hotspot source="Piscina Interna" offsetX="339" offsetY="547" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage44.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage45.jpg">
+      <hotspot source="Aérea" offsetX="193" offsetY="467" />
+      <hotspot source="Aérea 2" offsetX="1412" offsetY="367" />
+      <hotspot source="Aérea 3" offsetX="302" offsetY="478" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage45.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage46.jpg">
+      <hotspot source="Aérea" offsetX="222" offsetY="405" />
+      <hotspot source="Aérea 2" offsetX="1422" offsetY="391" />
+      <hotspot source="Aérea 3" offsetX="316" offsetY="442" />
+      <hotspot source="Salão de Festas Interno" offsetX="1545" offsetY="501" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage46.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage47.jpg">
+      <hotspot source="Aérea" offsetX="281" offsetY="334" />
+      <hotspot source="Aérea 2" offsetX="1430" offsetY="419" />
+      <hotspot source="Aérea 3" offsetX="343" offsetY="411" />
+      <hotspot source="Salão de Festas Interno" offsetX="1523" offsetY="536" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage47.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage48.jpg">
+      <hotspot source="Portaria" offsetX="1684" offsetY="579" />
+      <hotspot source="Aérea" offsetX="334" offsetY="303" />
+      <hotspot source="Aérea 2" offsetX="1419" offsetY="442" />
+      <hotspot source="Aérea 3" offsetX="382" offsetY="380" />
+      <hotspot source="Terraço" offsetX="1444" offsetY="552" />
+      <hotspot source="Salão de Festas Interno" offsetX="1494" offsetY="565" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage48.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage49.jpg">
+      <hotspot source="Portaria" offsetX="1660" offsetY="619" />
+      <hotspot source="Aérea" offsetX="383" offsetY="280" />
+      <hotspot source="Aérea 2" offsetX="1410" offsetY="464" />
+      <hotspot source="Aérea 3" offsetX="414" offsetY="354" />
+      <hotspot source="Portaria Frontal" offsetX="1564" offsetY="551" />
+      <hotspot source="Terraço" offsetX="1412" offsetY="578" />
+      <hotspot source="PetPlace" offsetX="1422" offsetY="541" />
+      <hotspot source="Salão de Festas Interno" offsetX="1458" offsetY="593" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage49.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage50.jpg">
+      <hotspot source="Portaria" offsetX="1624" offsetY="663" />
+      <hotspot source="Aérea" offsetX="432" offsetY="257" />
+      <hotspot source="Aérea 2" offsetX="1391" offsetY="484" />
+      <hotspot source="Aérea 3" offsetX="456" offsetY="333" />
+      <hotspot source="Portaria Frontal" offsetX="1535" offsetY="581" />
+      <hotspot source="Terraço" offsetX="1367" offsetY="601" />
+      <hotspot source="PetPlace" offsetX="1388" offsetY="571" />
+      <hotspot source="Salão de Festas Interno" offsetX="1415" offsetY="618" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage50.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage51.jpg">
+      <hotspot source="Portaria" offsetX="1574" offsetY="698" />
+      <hotspot source="Salão de Festas" offsetX="1444" offsetY="644" />
+      <hotspot source="Aérea" offsetX="488" offsetY="236" />
+      <hotspot source="Aérea 2" offsetX="1366" offsetY="510" />
+      <hotspot source="Aérea 3" offsetX="498" offsetY="306" />
+      <hotspot source="Portaria Frontal" offsetX="1496" offsetY="617" />
+      <hotspot source="Terraço" offsetX="1317" offsetY="621" />
+      <hotspot source="PetPlace" offsetX="1354" offsetY="589" />
+      <hotspot source="Salão de Festas Interno" offsetX="1358" offsetY="637" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage51.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage52.jpg">
+      <hotspot source="Portaria" offsetX="1513" offsetY="733" />
+      <hotspot source="Salão de Festas" offsetX="1391" offsetY="669" />
+      <hotspot source="Aérea" offsetX="532" offsetY="219" />
+      <hotspot source="Aérea 2" offsetX="1348" offsetY="533" />
+      <hotspot source="Aérea 3" offsetX="540" offsetY="292" />
+      <hotspot source="Portaria Frontal" offsetX="1452" offsetY="643" />
+      <hotspot source="Terraço" offsetX="1259" offsetY="638" />
+      <hotspot source="PetPlace" offsetX="1306" offsetY="610" />
+      <hotspot source="Salão de Festas Interno" offsetX="1295" offsetY="655" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage52.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage53.jpg">
+      <hotspot source="Portaria" offsetX="1442" offsetY="764" />
+      <hotspot source="Salão de Festas" offsetX="1323" offsetY="685" />
+      <hotspot source="Aérea" offsetX="580" offsetY="206" />
+      <hotspot source="Aérea 2" offsetX="1320" offsetY="549" />
+      <hotspot source="Aérea 3" offsetX="589" offsetY="276" />
+      <hotspot source="Portaria Frontal" offsetX="1393" offsetY="661" />
+      <hotspot source="Terraço" offsetX="1196" offsetY="650" />
+      <hotspot source="PetPlace" offsetX="1251" offsetY="623" />
+      <hotspot source="Salão de Festas Interno" offsetX="1230" offsetY="671" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage53.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage54.jpg">
+      <hotspot source="Portaria" offsetX="1362" offsetY="789" />
+      <hotspot source="Salão de Festas" offsetX="1257" offsetY="702" />
+      <hotspot source="Aérea" offsetX="630" offsetY="197" />
+      <hotspot source="Aérea 2" offsetX="1282" offsetY="566" />
+      <hotspot source="Aérea 3" offsetX="634" offsetY="262" />
+      <hotspot source="Portaria Frontal" offsetX="1337" offsetY="690" />
+      <hotspot source="Terraço" offsetX="1128" offsetY="661" />
+      <hotspot source="PetPlace" offsetX="1195" offsetY="642" />
+      <hotspot source="Salão de Festas Interno" offsetX="1166" offsetY="687" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage54.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage55.jpg">
+      <hotspot source="Portaria" offsetX="1272" offsetY="811" />
+      <hotspot source="Salão de Festas" offsetX="1183" offsetY="718" />
+      <hotspot source="Aérea" offsetX="684" offsetY="184" />
+      <hotspot source="Aérea 2" offsetX="1237" offsetY="577" />
+      <hotspot source="Aérea 3" offsetX="682" offsetY="251" />
+      <hotspot source="Portaria Frontal" offsetX="1262" offsetY="707" />
+      <hotspot source="Terraço" offsetX="1059" offsetY="669" />
+      <hotspot source="PetPlace" offsetX="1138" offsetY="650" />
+      <hotspot source="Salão de Festas Interno" offsetX="1092" offsetY="695" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage55.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage56.jpg">
+      <hotspot source="Portaria" offsetX="1179" offsetY="825" />
+      <hotspot source="Salão de Festas" offsetX="1107" offsetY="727" />
+      <hotspot source="Aérea" offsetX="741" offsetY="178" />
+      <hotspot source="Aérea 2" offsetX="1193" offsetY="589" />
+      <hotspot source="Aérea 3" offsetX="729" offsetY="243" />
+      <hotspot source="Portaria Frontal" offsetX="1192" offsetY="727" />
+      <hotspot source="Terraço" offsetX="990" offsetY="671" />
+      <hotspot source="PetPlace" offsetX="1079" offsetY="658" />
+      <hotspot source="Salão de Festas Interno" offsetX="1017" offsetY="697" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage56.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage57.jpg">
+      <hotspot source="Portaria" offsetX="1080" offsetY="833" />
+      <hotspot source="Salão de Festas" offsetX="1029" offsetY="730" />
+      <hotspot source="Aérea" offsetX="790" offsetY="171" />
+      <hotspot source="Aérea 2" offsetX="1143" offsetY="597" />
+      <hotspot source="Aérea 3" offsetX="783" offsetY="235" />
+      <hotspot source="Portaria Frontal" offsetX="1115" offsetY="733" />
+      <hotspot source="Terraço" offsetX="921" offsetY="666" />
+      <hotspot source="PetPlace" offsetX="1015" offsetY="660" />
+      <hotspot source="Salão de Festas Interno" offsetX="941" offsetY="695" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage57.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage58.jpg">
+      <hotspot source="Portaria" offsetX="979" offsetY="837" />
+      <hotspot source="Salão de Festas" offsetX="944" offsetY="730" />
+      <hotspot source="Aérea" offsetX="833" offsetY="163" />
+      <hotspot source="Aérea 2" offsetX="1089" offsetY="604" />
+      <hotspot source="Aérea 3" offsetX="820" offsetY="230" />
+      <hotspot source="Portaria Frontal" offsetX="1031" offsetY="738" />
+      <hotspot source="Terraço" offsetX="853" offsetY="665" />
+      <hotspot source="PetPlace" offsetX="952" offsetY="661" />
+      <hotspot source="Salão de Festas Interno" offsetX="867" offsetY="694" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage58.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage59.jpg">
+      <hotspot source="Portaria" offsetX="881" offsetY="831" />
+      <hotspot source="Salão de Festas" offsetX="868" offsetY="728" />
+      <hotspot source="Aérea" offsetX="875" offsetY="160" />
+      <hotspot source="Aérea 2" offsetX="1047" offsetY="606" />
+      <hotspot source="Aérea 3" offsetX="873" offsetY="226" />
+      <hotspot source="Portaria Frontal" offsetX="945" offsetY="738" />
+      <hotspot source="Terraço" offsetX="772" offsetY="652" />
+      <hotspot source="PetPlace" offsetX="886" offsetY="660" />
+      <hotspot source="Salão de Festas Interno" offsetX="787" offsetY="681" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage59.jpg" />
+    </image>
+    <image src="images/FyrStudio-Grantec-Vistta-RowImage60.jpg">
+      <hotspot source="Portaria" offsetX="784" offsetY="823" />
+      <hotspot source="Salão de Festas" offsetX="793" offsetY="723" />
+      <hotspot source="Aérea" offsetX="943" offsetY="154" />
+      <hotspot source="Aérea 2" offsetX="999" offsetY="607" />
+      <hotspot source="Aérea 3" offsetX="920" offsetY="225" />
+      <hotspot source="Portaria Frontal" offsetX="865" offsetY="734" />
+      <hotspot source="Terraço" offsetX="719" offsetY="640" />
+      <hotspot source="PetPlace" offsetX="829" offsetY="652" />
+      <hotspot source="Salão de Festas Interno" offsetX="714" offsetY="669" />
+      <highres src="images/highres/FyrStudio-Grantec-Vistta-RowImage60.jpg" />
+    </image>
+  </images>
+</config>
