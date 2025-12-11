@@ -1,72 +1,72 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <config>
   <settings>
-    <preloader image="images/Grantec-Frame-00.jpg?t=1765484274" />
+    <preloader image="images/Grantec-Frame-00.jpg?t=1765488167" />
     <userInterface showProgressPulse="false" showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" showProgressBar="true" skin="basic" />
     <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" dragAcceleration="1" centerZoom="false" maxZoom="100" />
     <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" spinOnPageScroll="false" pageScrollFollow="false" pageScrollDelay="300" pageScrollPeriod="3" autoPlayOnDragRelease="false" />
   </settings>
   <hotspots>
-    <hotspot id="Portaria" renderMode="1" indicatorImage="Numeros_Indicators_1.svg" activateOnClick="true" deactivateOnClick="true" minIndicatorScale="10" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-04-PortariaSalaoFestas-Final.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+    <hotspot id="Portaria" renderMode="1" indicatorImage="Numeros_Indicators_1_1765487618..svg" activateOnClick="true" deactivateOnClick="true" minIndicatorScale="10" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-04-PortariaSalaoFestas-Final.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
-    <hotspot id="Salão de Festas Interno" renderMode="1" indicatorImage="Numeros_Indicators_4.svg" activateOnClick="true" deactivateOnClick="true" minIndicatorScale="10">
-      <spotinfo />
+    <hotspot id="Salão de Festas Interno" renderMode="1" indicatorImage="Numeros_Indicators_4.svg" activateOnClick="true" deactivateOnClick="true" minIndicatorScale="10" offsetX="0" offsetY="0">
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-40-SalaodeFesta-prv1.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Salão de Festas Externo" renderMode="1" indicatorImage="Numeros_Indicators_4.1.svg" activateOnClick="true" deactivateOnClick="true" minIndicatorScale="10" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-11-SalaoFestasFachada01_Final.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-11-SalaoFestasFachada01_Final.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Alameda de Acesso" renderMode="1" indicatorImage="Numeros_Indicators_2.svg" activateOnClick="true" deactivateOnClick="true" minIndicatorScale="10" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-03-PortariaFrontal_Prv1.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-03-PortariaFrontal_Prv1.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Aérea 1" renderMode="1" indicatorImage="Numeros_Indicators_17.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-01-Fotomontagem01-Final.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-02-Fotomontagem02-Final.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Aérea 2" renderMode="1" indicatorImage="Numeros_Indicators_18.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-02-Fotomontagem02-Final.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-01-Fotomontagem01-Final.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Vista Terraço" renderMode="1" indicatorImage="Numeros_Indicators_5.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-06-TerracoCasa1-Prv01.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-06-TerracoCasa1-Prv01.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Quadr Tennis" renderMode="1" indicatorImage="Numeros_Indicators_6.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-10-QuadraTenis-Final.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-10-QuadraTenis-Final.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Basquete e Beach Tennis" renderMode="1" indicatorImage="Numeros_Indicators_7.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-09-AereaLazerQuadras_Prv1.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-09-AereaLazerQuadras_Prv1.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Churrasqueira" renderMode="1" indicatorImage="Numeros_Indicators_8.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-15-Churrasqueira-Prv1.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-15-Churrasqueira-Prv1.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Poolbar" renderMode="1" indicatorImage="Numeros_Indicators_9.svg" activateOnClick="true" deactivateOnClick="true" minIndicatorScale="10" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-20-PoolBar-Final2.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-20-PoolBar-Final2.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Salão de Jogos" renderMode="1" indicatorImage="Numeros_Indicators_10.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-25-Salaodejogos-prv1.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-25-Salaodejogos-prv1.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Fitness" renderMode="1" indicatorImage="Numeros_Indicators_11.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/IMG_5936.jpg?t=1765484274" imgBkColor="#C0C0C0" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/IMG_5936.jpg?t=1765488167" imgBkColor="#C0C0C0" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Piscina Externa" renderMode="1" indicatorImage="Numeros_Indicators_12.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-37-PiscinaAerea2-Final.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-37-PiscinaAerea2-Final.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Piscina Interna" renderMode="1" indicatorImage="Numeros_Indicators_13.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-40-PiscinaInterna2-Final2.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-40-PiscinaInterna2-Final2.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Sauna" renderMode="1" indicatorImage="Numeros_Indicators_14.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-Spa.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-Spa.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Brinquedoteca" renderMode="1" indicatorImage="Numeros_Indicators_15.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-22-Brinquedoteca-prv1.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-22-Brinquedoteca-prv1.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Playground" renderMode="1" indicatorImage="Numeros_Indicators_16.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec_Vistta-18-Playground-Final.jpg?t=1765484274" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec_Vistta-18-Playground-Final.jpg?t=1765488167" imgWidth="1920" imgNoScale="true" />
     </hotspot>
     <hotspot id="Petplace" renderMode="1" indicatorImage="Numeros_Indicators_3.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,0,0" align="center,center">
-      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-19-PetPlace-Prv01.jpg?t=1765484274" imgBkColor="#C0C0C0" imgWidth="1920" imgNoScale="true" />
+      <spotinfo src="images/spots/FyrStudio-Grantec-Vistta-19-PetPlace-Prv01.jpg?t=1765488167" imgBkColor="#C0C0C0" imgWidth="1920" imgNoScale="true" />
     </hotspot>
   </hotspots>
   <images rows="1" highresWidth="3000" highresHeight="1688">
-    <image src="images/Grantec-Frame-00.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-00.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="769" offsetY="740" />
       <hotspot source="Salão de Festas Interno" offsetX="703" offsetY="668" />
       <hotspot source="Salão de Festas Externo" offsetX="767" offsetY="674" />
@@ -75,9 +75,9 @@
       <hotspot source="Aérea 2" offsetX="981" offsetY="337" />
       <hotspot source="Vista Terraço" offsetX="1089" offsetY="651" />
       <hotspot source="Petplace" offsetX="810" offsetY="659" />
-      <highres src="images/highres/Grantec-Frame-00.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-00.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-01.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-01.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="706" offsetY="727" />
       <hotspot source="Salão de Festas Interno" offsetX="659" offsetY="653" />
       <hotspot source="Salão de Festas Externo" offsetX="716" offsetY="666" />
@@ -86,9 +86,9 @@
       <hotspot source="Aérea 2" offsetX="1023" offsetY="339" />
       <hotspot source="Vista Terraço" offsetX="1038" offsetY="656" />
       <hotspot source="Petplace" offsetX="768" offsetY="653" />
-      <highres src="images/highres/Grantec-Frame-01.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-01.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-02.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-02.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="645" offsetY="712" />
       <hotspot source="Salão de Festas Interno" offsetX="613" offsetY="639" />
       <hotspot source="Salão de Festas Externo" offsetX="673" offsetY="646" />
@@ -97,9 +97,9 @@
       <hotspot source="Aérea 2" offsetX="1065" offsetY="343" />
       <hotspot source="Vista Terraço" offsetX="997" offsetY="660" />
       <hotspot source="Petplace" offsetX="728" offsetY="638" />
-      <highres src="images/highres/Grantec-Frame-02.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-02.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-03.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-03.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="590" offsetY="685" />
       <hotspot source="Salão de Festas Interno" offsetX="577" offsetY="615" />
       <hotspot source="Salão de Festas Externo" offsetX="633" offsetY="629" />
@@ -108,9 +108,9 @@
       <hotspot source="Aérea 2" offsetX="1110" offsetY="348" />
       <hotspot source="Vista Terraço" offsetX="955" offsetY="659" />
       <hotspot source="Petplace" offsetX="691" offsetY="625" />
-      <highres src="images/highres/Grantec-Frame-03.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-03.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-04.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-04.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="542" offsetY="665" />
       <hotspot source="Salão de Festas Interno" offsetX="545" offsetY="596" />
       <hotspot source="Salão de Festas Externo" offsetX="603" offsetY="615" />
@@ -119,9 +119,9 @@
       <hotspot source="Aérea 2" offsetX="1152" offsetY="355" />
       <hotspot source="Vista Terraço" offsetX="909" offsetY="656" />
       <hotspot source="Petplace" offsetX="660" offsetY="605" />
-      <highres src="images/highres/Grantec-Frame-04.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-04.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-05.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-05.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="500" offsetY="640" />
       <hotspot source="Salão de Festas Interno" offsetX="524" offsetY="572" />
       <hotspot source="Salão de Festas Externo" offsetX="574" offsetY="602" />
@@ -130,9 +130,9 @@
       <hotspot source="Aérea 2" offsetX="1190" offsetY="365" />
       <hotspot source="Vista Terraço" offsetX="867" offsetY="651" />
       <hotspot source="Petplace" offsetX="627" offsetY="589" />
-      <highres src="images/highres/Grantec-Frame-05.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-05.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-06.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-06.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="468" offsetY="615" />
       <hotspot source="Salão de Festas Interno" offsetX="507" offsetY="549" />
       <hotspot source="Salão de Festas Externo" offsetX="551" offsetY="578" />
@@ -141,9 +141,9 @@
       <hotspot source="Aérea 2" offsetX="1230" offsetY="373" />
       <hotspot source="Vista Terraço" offsetX="833" offsetY="645" />
       <hotspot source="Petplace" offsetX="604" offsetY="574" />
-      <highres src="images/highres/Grantec-Frame-06.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-06.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-07.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-07.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="446" offsetY="590" />
       <hotspot source="Salão de Festas Interno" offsetX="495" offsetY="528" />
       <hotspot source="Salão de Festas Externo" offsetX="529" offsetY="555" />
@@ -152,9 +152,9 @@
       <hotspot source="Aérea 2" offsetX="1270" offsetY="389" />
       <hotspot source="Vista Terraço" offsetX="796" offsetY="636" />
       <hotspot source="Petplace" offsetX="586" offsetY="554" />
-      <highres src="images/highres/Grantec-Frame-07.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-07.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-08.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-08.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="430" offsetY="563" />
       <hotspot source="Salão de Festas Interno" offsetX="489" offsetY="506" />
       <hotspot source="Salão de Festas Externo" offsetX="520" offsetY="536" />
@@ -163,9 +163,9 @@
       <hotspot source="Aérea 2" offsetX="1305" offsetY="400" />
       <hotspot source="Vista Terraço" offsetX="757" offsetY="625" />
       <hotspot source="Petplace" offsetX="578" offsetY="537" />
-      <highres src="images/highres/Grantec-Frame-08.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-08.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-09.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-09.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="420" offsetY="538" />
       <hotspot source="Salão de Festas Interno" offsetX="489" offsetY="485" />
       <hotspot source="Salão de Festas Externo" offsetX="515" offsetY="519" />
@@ -174,33 +174,33 @@
       <hotspot source="Aérea 2" offsetX="1337" offsetY="417" />
       <hotspot source="Vista Terraço" offsetX="727" offsetY="615" />
       <hotspot source="Petplace" offsetX="569" offsetY="519" />
-      <highres src="images/highres/Grantec-Frame-09.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-09.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-10.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-10.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1165" offsetY="467" />
       <hotspot source="Aérea 2" offsetX="1369" offsetY="433" />
       <hotspot source="Vista Terraço" offsetX="696" offsetY="600" />
-      <highres src="images/highres/Grantec-Frame-10.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-10.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-11.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-11.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1173" offsetY="475" />
       <hotspot source="Aérea 2" offsetX="1396" offsetY="451" />
       <hotspot source="Vista Terraço" offsetX="670" offsetY="585" />
-      <highres src="images/highres/Grantec-Frame-11.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-11.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-12.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-12.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1182" offsetY="482" />
       <hotspot source="Aérea 2" offsetX="1417" offsetY="472" />
       <hotspot source="Vista Terraço" offsetX="650" offsetY="571" />
-      <highres src="images/highres/Grantec-Frame-12.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-12.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-13.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-13.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1190" offsetY="497" />
       <hotspot source="Aérea 2" offsetX="1436" offsetY="495" />
       <hotspot source="Vista Terraço" offsetX="632" offsetY="555" />
-      <highres src="images/highres/Grantec-Frame-13.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-13.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-14.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-14.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1195" offsetY="509" />
       <hotspot source="Aérea 2" offsetX="1455" offsetY="516" />
       <hotspot source="Vista Terraço" offsetX="623" offsetY="543" />
@@ -215,9 +215,9 @@
       <hotspot source="Sauna" offsetX="1519" offsetY="434" />
       <hotspot source="Brinquedoteca" offsetX="1523" offsetY="434" />
       <hotspot source="Playground" offsetX="1552" offsetY="438" />
-      <highres src="images/highres/Grantec-Frame-14.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-14.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-15.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-15.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1195" offsetY="516" />
       <hotspot source="Aérea 2" offsetX="1461" offsetY="538" />
       <hotspot source="Vista Terraço" offsetX="611" offsetY="522" />
@@ -232,9 +232,9 @@
       <hotspot source="Sauna" offsetX="1550" offsetY="458" />
       <hotspot source="Brinquedoteca" offsetX="1556" offsetY="461" />
       <hotspot source="Playground" offsetX="1596" offsetY="476" />
-      <highres src="images/highres/Grantec-Frame-15.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-15.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-16.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-16.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1193" offsetY="524" />
       <hotspot source="Aérea 2" offsetX="1468" offsetY="564" />
       <hotspot source="Vista Terraço" offsetX="606" offsetY="506" />
@@ -249,9 +249,9 @@
       <hotspot source="Sauna" offsetX="1575" offsetY="486" />
       <hotspot source="Brinquedoteca" offsetX="1577" offsetY="488" />
       <hotspot source="Playground" offsetX="1621" offsetY="497" />
-      <highres src="images/highres/Grantec-Frame-16.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-16.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-17.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-17.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1193" offsetY="536" />
       <hotspot source="Aérea 2" offsetX="1469" offsetY="588" />
       <hotspot source="Vista Terraço" offsetX="606" offsetY="494" />
@@ -266,9 +266,9 @@
       <hotspot source="Sauna" offsetX="1596" offsetY="512" />
       <hotspot source="Brinquedoteca" offsetX="1599" offsetY="515" />
       <hotspot source="Playground" offsetX="1646" offsetY="528" />
-      <highres src="images/highres/Grantec-Frame-17.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-17.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-18.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-18.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1185" offsetY="548" />
       <hotspot source="Aérea 2" offsetX="1461" offsetY="613" />
       <hotspot source="Vista Terraço" offsetX="611" offsetY="480" />
@@ -283,9 +283,9 @@
       <hotspot source="Sauna" offsetX="1613" offsetY="547" />
       <hotspot source="Brinquedoteca" offsetX="1613" offsetY="547" />
       <hotspot source="Playground" offsetX="1667" offsetY="563" />
-      <highres src="images/highres/Grantec-Frame-18.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-18.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-19.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-19.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1176" offsetY="558" />
       <hotspot source="Aérea 2" offsetX="1448" offsetY="640" />
       <hotspot source="Vista Terraço" offsetX="620" offsetY="462" />
@@ -300,9 +300,9 @@
       <hotspot source="Sauna" offsetX="1618" offsetY="578" />
       <hotspot source="Brinquedoteca" offsetX="1620" offsetY="576" />
       <hotspot source="Playground" offsetX="1680" offsetY="599" />
-      <highres src="images/highres/Grantec-Frame-19.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-19.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-20.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-20.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1167" offsetY="569" />
       <hotspot source="Aérea 2" offsetX="1431" offsetY="665" />
       <hotspot source="Vista Terraço" offsetX="627" offsetY="447" />
@@ -317,9 +317,9 @@
       <hotspot source="Sauna" offsetX="1626" offsetY="611" />
       <hotspot source="Brinquedoteca" offsetX="1621" offsetY="609" />
       <hotspot source="Playground" offsetX="1682" offsetY="637" />
-      <highres src="images/highres/Grantec-Frame-20.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-20.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-21.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-21.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1153" offsetY="579" />
       <hotspot source="Aérea 2" offsetX="1409" offsetY="689" />
       <hotspot source="Vista Terraço" offsetX="643" offsetY="433" />
@@ -334,9 +334,9 @@
       <hotspot source="Sauna" offsetX="1618" offsetY="641" />
       <hotspot source="Brinquedoteca" offsetX="1618" offsetY="645" />
       <hotspot source="Playground" offsetX="1680" offsetY="674" />
-      <highres src="images/highres/Grantec-Frame-21.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-21.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-22.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-22.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1138" offsetY="588" />
       <hotspot source="Aérea 2" offsetX="1376" offsetY="713" />
       <hotspot source="Vista Terraço" offsetX="658" offsetY="419" />
@@ -351,9 +351,9 @@
       <hotspot source="Sauna" offsetX="1596" offsetY="675" />
       <hotspot source="Brinquedoteca" offsetX="1599" offsetY="677" />
       <hotspot source="Playground" offsetX="1662" offsetY="709" />
-      <highres src="images/highres/Grantec-Frame-22.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-22.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-23.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-23.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1121" offsetY="597" />
       <hotspot source="Aérea 2" offsetX="1344" offsetY="734" />
       <hotspot source="Vista Terraço" offsetX="674" offsetY="407" />
@@ -368,9 +368,9 @@
       <hotspot source="Sauna" offsetX="1574" offsetY="711" />
       <hotspot source="Brinquedoteca" offsetX="1575" offsetY="712" />
       <hotspot source="Playground" offsetX="1642" offsetY="751" />
-      <highres src="images/highres/Grantec-Frame-23.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-23.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-24.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-24.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1101" offsetY="603" />
       <hotspot source="Aérea 2" offsetX="1297" offsetY="754" />
       <hotspot source="Vista Terraço" offsetX="694" offsetY="393" />
@@ -385,9 +385,9 @@
       <hotspot source="Sauna" offsetX="1537" offsetY="748" />
       <hotspot source="Brinquedoteca" offsetX="1544" offsetY="746" />
       <hotspot source="Playground" offsetX="1605" offsetY="788" />
-      <highres src="images/highres/Grantec-Frame-24.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-24.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-25.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-25.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1078" offsetY="609" />
       <hotspot source="Aérea 2" offsetX="1247" offsetY="771" />
       <hotspot source="Vista Terraço" offsetX="719" offsetY="383" />
@@ -402,9 +402,9 @@
       <hotspot source="Sauna" offsetX="1490" offsetY="781" />
       <hotspot source="Brinquedoteca" offsetX="1497" offsetY="783" />
       <hotspot source="Playground" offsetX="1564" offsetY="824" />
-      <highres src="images/highres/Grantec-Frame-25.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-25.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-26.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-26.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1057" offsetY="615" />
       <hotspot source="Aérea 2" offsetX="1194" offsetY="788" />
       <hotspot source="Vista Terraço" offsetX="746" offsetY="376" />
@@ -419,9 +419,9 @@
       <hotspot source="Sauna" offsetX="1430" offsetY="815" />
       <hotspot source="Brinquedoteca" offsetX="1438" offsetY="812" />
       <hotspot source="Playground" offsetX="1503" offsetY="861" />
-      <highres src="images/highres/Grantec-Frame-26.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-26.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-27.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-27.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1035" offsetY="620" />
       <hotspot source="Aérea 2" offsetX="1135" offsetY="802" />
       <hotspot source="Vista Terraço" offsetX="771" offsetY="366" />
@@ -436,9 +436,9 @@
       <hotspot source="Sauna" offsetX="1362" offsetY="844" />
       <hotspot source="Brinquedoteca" offsetX="1376" offsetY="842" />
       <hotspot source="Playground" offsetX="1444" offsetY="895" />
-      <highres src="images/highres/Grantec-Frame-27.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-27.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-28.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-28.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="1009" offsetY="626" />
       <hotspot source="Aérea 2" offsetX="1071" offsetY="810" />
       <hotspot source="Vista Terraço" offsetX="801" offsetY="359" />
@@ -453,9 +453,9 @@
       <hotspot source="Sauna" offsetX="1283" offsetY="867" />
       <hotspot source="Brinquedoteca" offsetX="1303" offsetY="865" />
       <hotspot source="Playground" offsetX="1367" offsetY="928" />
-      <highres src="images/highres/Grantec-Frame-28.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-28.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-29.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-29.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="982" offsetY="630" />
       <hotspot source="Aérea 2" offsetX="1009" offsetY="816" />
       <hotspot source="Vista Terraço" offsetX="829" offsetY="345" />
@@ -470,9 +470,9 @@
       <hotspot source="Sauna" offsetX="1207" offsetY="888" />
       <hotspot source="Brinquedoteca" offsetX="1227" offsetY="886" />
       <hotspot source="Playground" offsetX="1279" offsetY="953" />
-      <highres src="images/highres/Grantec-Frame-29.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-29.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-30.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-30.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="954" offsetY="629" />
       <hotspot source="Aérea 2" offsetX="935" offsetY="821" />
       <hotspot source="Vista Terraço" offsetX="861" offsetY="343" />
@@ -487,9 +487,9 @@
       <hotspot source="Sauna" offsetX="1110" offsetY="905" />
       <hotspot source="Brinquedoteca" offsetX="1132" offsetY="900" />
       <hotspot source="Playground" offsetX="1189" offsetY="970" />
-      <highres src="images/highres/Grantec-Frame-30.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-30.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-31.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-31.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="925" offsetY="630" />
       <hotspot source="Aérea 2" offsetX="871" offsetY="818" />
       <hotspot source="Vista Terraço" offsetX="892" offsetY="339" />
@@ -504,9 +504,9 @@
       <hotspot source="Sauna" offsetX="1025" offsetY="913" />
       <hotspot source="Brinquedoteca" offsetX="1039" offsetY="913" />
       <hotspot source="Playground" offsetX="1091" offsetY="984" />
-      <highres src="images/highres/Grantec-Frame-31.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-31.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-32.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-32.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="899" offsetY="629" />
       <hotspot source="Aérea 2" offsetX="797" offsetY="812" />
       <hotspot source="Vista Terraço" offsetX="927" offsetY="336" />
@@ -521,9 +521,9 @@
       <hotspot source="Sauna" offsetX="924" offsetY="915" />
       <hotspot source="Brinquedoteca" offsetX="946" offsetY="914" />
       <hotspot source="Playground" offsetX="980" offsetY="995" />
-      <highres src="images/highres/Grantec-Frame-32.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-32.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-33.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-33.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="870" offsetY="625" />
       <hotspot source="Aérea 2" offsetX="739" offsetY="803" />
       <hotspot source="Vista Terraço" offsetX="956" offsetY="336" />
@@ -538,9 +538,9 @@
       <hotspot source="Sauna" offsetX="844" offsetY="912" />
       <hotspot source="Brinquedoteca" offsetX="860" offsetY="911" />
       <hotspot source="Playground" offsetX="873" offsetY="996" />
-      <highres src="images/highres/Grantec-Frame-33.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-33.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-34.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-34.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="843" offsetY="619" />
       <hotspot source="Aérea 2" offsetX="677" offsetY="789" />
       <hotspot source="Vista Terraço" offsetX="984" offsetY="339" />
@@ -555,9 +555,9 @@
       <hotspot source="Sauna" offsetX="742" offsetY="899" />
       <hotspot source="Brinquedoteca" offsetX="763" offsetY="907" />
       <hotspot source="Playground" offsetX="771" offsetY="986" />
-      <highres src="images/highres/Grantec-Frame-34.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-34.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-35.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-35.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="819" offsetY="613" />
       <hotspot source="Aérea 2" offsetX="622" offsetY="770" />
       <hotspot source="Vista Terraço" offsetX="1015" offsetY="342" />
@@ -572,9 +572,9 @@
       <hotspot source="Sauna" offsetX="657" offsetY="885" />
       <hotspot source="Brinquedoteca" offsetX="675" offsetY="892" />
       <hotspot source="Playground" offsetX="668" offsetY="969" />
-      <highres src="images/highres/Grantec-Frame-35.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-35.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-36.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-36.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="792" offsetY="605" />
       <hotspot source="Aérea 2" offsetX="574" offsetY="747" />
       <hotspot source="Vista Terraço" offsetX="1049" offsetY="345" />
@@ -589,9 +589,9 @@
       <hotspot source="Sauna" offsetX="576" offsetY="865" />
       <hotspot source="Brinquedoteca" offsetX="591" offsetY="873" />
       <hotspot source="Playground" offsetX="577" offsetY="947" />
-      <highres src="images/highres/Grantec-Frame-36.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-36.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-37.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-37.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="774" offsetY="595" />
       <hotspot source="Aérea 2" offsetX="533" offsetY="721" />
       <hotspot source="Vista Terraço" offsetX="1077" offsetY="349" />
@@ -606,9 +606,9 @@
       <hotspot source="Sauna" offsetX="501" offsetY="838" />
       <hotspot source="Brinquedoteca" offsetX="514" offsetY="849" />
       <hotspot source="Playground" offsetX="494" offsetY="920" />
-      <highres src="images/highres/Grantec-Frame-37.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-37.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-38.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-38.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="758" offsetY="584" />
       <hotspot source="Aérea 2" offsetX="496" offsetY="700" />
       <hotspot source="Vista Terraço" offsetX="1103" offsetY="355" />
@@ -623,9 +623,9 @@
       <hotspot source="Sauna" offsetX="447" offsetY="814" />
       <hotspot source="Brinquedoteca" offsetX="460" offsetY="806" />
       <hotspot source="Playground" offsetX="414" offsetY="878" />
-      <highres src="images/highres/Grantec-Frame-38.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-38.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-39.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-39.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="743" offsetY="574" />
       <hotspot source="Aérea 2" offsetX="472" offsetY="673" />
       <hotspot source="Vista Terraço" offsetX="1133" offsetY="363" />
@@ -640,9 +640,9 @@
       <hotspot source="Sauna" offsetX="391" offsetY="778" />
       <hotspot source="Brinquedoteca" offsetX="407" offsetY="775" />
       <hotspot source="Playground" offsetX="354" offsetY="844" />
-      <highres src="images/highres/Grantec-Frame-39.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-39.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-40.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-40.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="732" offsetY="562" />
       <hotspot source="Aérea 2" offsetX="451" offsetY="643" />
       <hotspot source="Vista Terraço" offsetX="1161" offsetY="370" />
@@ -657,9 +657,9 @@
       <hotspot source="Sauna" offsetX="351" offsetY="748" />
       <hotspot source="Brinquedoteca" offsetX="366" offsetY="741" />
       <hotspot source="Playground" offsetX="303" offsetY="802" />
-      <highres src="images/highres/Grantec-Frame-40.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-40.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-41.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-41.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="725" offsetY="550" />
       <hotspot source="Aérea 2" offsetX="440" offsetY="615" />
       <hotspot source="Vista Terraço" offsetX="1187" offsetY="377" />
@@ -674,9 +674,9 @@
       <hotspot source="Sauna" offsetX="316" offsetY="709" />
       <hotspot source="Brinquedoteca" offsetX="335" offsetY="705" />
       <hotspot source="Playground" offsetX="266" offsetY="760" />
-      <highres src="images/highres/Grantec-Frame-41.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-41.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-42.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-42.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="715" offsetY="536" />
       <hotspot source="Aérea 2" offsetX="437" offsetY="585" />
       <hotspot source="Vista Terraço" offsetX="1213" offsetY="385" />
@@ -691,9 +691,9 @@
       <hotspot source="Sauna" offsetX="297" offsetY="673" />
       <hotspot source="Brinquedoteca" offsetX="310" offsetY="664" />
       <hotspot source="Playground" offsetX="241" offsetY="715" />
-      <highres src="images/highres/Grantec-Frame-42.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-42.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-43.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-43.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="718" offsetY="524" />
       <hotspot source="Aérea 2" offsetX="441" offsetY="562" />
       <hotspot source="Vista Terraço" offsetX="1241" offsetY="400" />
@@ -708,15 +708,15 @@
       <hotspot source="Sauna" offsetX="282" offsetY="634" />
       <hotspot source="Brinquedoteca" offsetX="299" offsetY="631" />
       <hotspot source="Playground" offsetX="228" offsetY="675" />
-      <highres src="images/highres/Grantec-Frame-43.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-43.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-44.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-44.jpg?t=1765488167">
       <hotspot source="Aérea 1" offsetX="719" offsetY="513" />
       <hotspot source="Aérea 2" offsetX="451" offsetY="535" />
       <hotspot source="Vista Terraço" offsetX="1268" offsetY="411" />
-      <highres src="images/highres/Grantec-Frame-44.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-44.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-45.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-45.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="1513" offsetY="514" />
       <hotspot source="Salão de Festas Interno" offsetX="1428" offsetY="540" />
       <hotspot source="Salão de Festas Externo" offsetX="1419" offsetY="522" />
@@ -725,9 +725,9 @@
       <hotspot source="Aérea 2" offsetX="460" offsetY="507" />
       <hotspot source="Vista Terraço" offsetX="1283" offsetY="424" />
       <hotspot source="Petplace" offsetX="1365" offsetY="515" />
-      <highres src="images/highres/Grantec-Frame-45.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-45.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-46.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-46.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="1513" offsetY="542" />
       <hotspot source="Salão de Festas Interno" offsetX="1406" offsetY="568" />
       <hotspot source="Salão de Festas Externo" offsetX="1415" offsetY="548" />
@@ -736,9 +736,9 @@
       <hotspot source="Aérea 2" offsetX="480" offsetY="483" />
       <hotspot source="Vista Terraço" offsetX="1295" offsetY="438" />
       <hotspot source="Petplace" offsetX="1345" offsetY="538" />
-      <highres src="images/highres/Grantec-Frame-46.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-46.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-47.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-47.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="1501" offsetY="570" />
       <hotspot source="Salão de Festas Interno" offsetX="1385" offsetY="590" />
       <hotspot source="Salão de Festas Externo" offsetX="1396" offsetY="568" />
@@ -747,9 +747,9 @@
       <hotspot source="Aérea 2" offsetX="499" offsetY="464" />
       <hotspot source="Vista Terraço" offsetX="1309" offsetY="457" />
       <hotspot source="Petplace" offsetX="1337" offsetY="557" />
-      <highres src="images/highres/Grantec-Frame-47.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-47.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-48.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-48.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="1479" offsetY="596" />
       <hotspot source="Salão de Festas Interno" offsetX="1357" offsetY="612" />
       <hotspot source="Salão de Festas Externo" offsetX="1373" offsetY="591" />
@@ -758,9 +758,9 @@
       <hotspot source="Aérea 2" offsetX="524" offsetY="444" />
       <hotspot source="Vista Terraço" offsetX="1314" offsetY="473" />
       <hotspot source="Petplace" offsetX="1314" offsetY="577" />
-      <highres src="images/highres/Grantec-Frame-48.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-48.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-49.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-49.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="1454" offsetY="625" />
       <hotspot source="Salão de Festas Interno" offsetX="1318" offsetY="636" />
       <hotspot source="Salão de Festas Externo" offsetX="1343" offsetY="617" />
@@ -769,9 +769,9 @@
       <hotspot source="Aérea 2" offsetX="553" offsetY="424" />
       <hotspot source="Vista Terraço" offsetX="1318" offsetY="489" />
       <hotspot source="Petplace" offsetX="1295" offsetY="595" />
-      <highres src="images/highres/Grantec-Frame-49.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-49.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-50.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-50.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="1420" offsetY="650" />
       <hotspot source="Salão de Festas Interno" offsetX="1278" offsetY="653" />
       <hotspot source="Salão de Festas Externo" offsetX="1309" offsetY="634" />
@@ -780,9 +780,9 @@
       <hotspot source="Aérea 2" offsetX="583" offsetY="407" />
       <hotspot source="Vista Terraço" offsetX="1317" offsetY="509" />
       <hotspot source="Petplace" offsetX="1262" offsetY="611" />
-      <highres src="images/highres/Grantec-Frame-50.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-50.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-51.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-51.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="1380" offsetY="673" />
       <hotspot source="Salão de Festas Interno" offsetX="1229" offsetY="668" />
       <hotspot source="Salão de Festas Externo" offsetX="1264" offsetY="653" />
@@ -791,9 +791,9 @@
       <hotspot source="Aérea 2" offsetX="623" offsetY="392" />
       <hotspot source="Vista Terraço" offsetX="1313" offsetY="520" />
       <hotspot source="Petplace" offsetX="1228" offsetY="627" />
-      <highres src="images/highres/Grantec-Frame-51.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-51.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-52.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-52.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="1325" offsetY="698" />
       <hotspot source="Salão de Festas Interno" offsetX="1182" offsetY="682" />
       <hotspot source="Salão de Festas Externo" offsetX="1215" offsetY="668" />
@@ -802,9 +802,9 @@
       <hotspot source="Aérea 2" offsetX="656" offsetY="382" />
       <hotspot source="Vista Terraço" offsetX="1309" offsetY="540" />
       <hotspot source="Petplace" offsetX="1186" offsetY="643" />
-      <highres src="images/highres/Grantec-Frame-52.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-52.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-53.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-53.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="1271" offsetY="716" />
       <hotspot source="Salão de Festas Interno" offsetX="1121" offsetY="693" />
       <hotspot source="Salão de Festas Externo" offsetX="1163" offsetY="677" />
@@ -813,9 +813,9 @@
       <hotspot source="Aérea 2" offsetX="694" offsetY="369" />
       <hotspot source="Vista Terraço" offsetX="1293" offsetY="560" />
       <hotspot source="Petplace" offsetX="1149" offsetY="652" />
-      <highres src="images/highres/Grantec-Frame-53.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-53.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-54.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-54.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="1207" offsetY="733" />
       <hotspot source="Salão de Festas Interno" offsetX="1062" offsetY="700" />
       <hotspot source="Salão de Festas Externo" offsetX="1106" offsetY="691" />
@@ -824,9 +824,9 @@
       <hotspot source="Aérea 2" offsetX="734" offsetY="361" />
       <hotspot source="Vista Terraço" offsetX="1282" offsetY="575" />
       <hotspot source="Petplace" offsetX="1105" offsetY="663" />
-      <highres src="images/highres/Grantec-Frame-54.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-54.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-55.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-55.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="1139" offsetY="743" />
       <hotspot source="Salão de Festas Interno" offsetX="997" offsetY="706" />
       <hotspot source="Salão de Festas Externo" offsetX="1041" offsetY="694" />
@@ -835,9 +835,9 @@
       <hotspot source="Aérea 2" offsetX="774" offsetY="351" />
       <hotspot source="Vista Terraço" offsetX="1261" offsetY="593" />
       <hotspot source="Petplace" offsetX="1057" offsetY="668" />
-      <highres src="images/highres/Grantec-Frame-55.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-55.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-56.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-56.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="1071" offsetY="753" />
       <hotspot source="Salão de Festas Interno" offsetX="936" offsetY="706" />
       <hotspot source="Salão de Festas Externo" offsetX="982" offsetY="699" />
@@ -846,9 +846,9 @@
       <hotspot source="Aérea 2" offsetX="811" offsetY="344" />
       <hotspot source="Vista Terraço" offsetX="1235" offsetY="606" />
       <hotspot source="Petplace" offsetX="1008" offsetY="673" />
-      <highres src="images/highres/Grantec-Frame-56.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-56.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-57.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-57.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="995" offsetY="755" />
       <hotspot source="Salão de Festas Interno" offsetX="872" offsetY="703" />
       <hotspot source="Salão de Festas Externo" offsetX="928" offsetY="698" />
@@ -857,9 +857,9 @@
       <hotspot source="Aérea 2" offsetX="854" offsetY="342" />
       <hotspot source="Vista Terraço" offsetX="1195" offsetY="623" />
       <hotspot source="Petplace" offsetX="956" offsetY="675" />
-      <highres src="images/highres/Grantec-Frame-57.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-57.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-58.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-58.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="924" offsetY="757" />
       <hotspot source="Salão de Festas Interno" offsetX="815" offsetY="691" />
       <hotspot source="Salão de Festas Externo" offsetX="870" offsetY="692" />
@@ -868,9 +868,9 @@
       <hotspot source="Aérea 2" offsetX="900" offsetY="336" />
       <hotspot source="Vista Terraço" offsetX="1166" offsetY="631" />
       <hotspot source="Petplace" offsetX="904" offsetY="670" />
-      <highres src="images/highres/Grantec-Frame-58.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-58.jpg?t=1765488167" />
     </image>
-    <image src="images/Grantec-Frame-59.jpg?t=1765484274">
+    <image src="images/Grantec-Frame-59.jpg?t=1765488167">
       <hotspot source="Portaria" offsetX="845" offsetY="753" />
       <hotspot source="Salão de Festas Interno" offsetX="757" offsetY="684" />
       <hotspot source="Salão de Festas Externo" offsetX="818" offsetY="685" />
@@ -879,7 +879,7 @@
       <hotspot source="Aérea 2" offsetX="939" offsetY="336" />
       <hotspot source="Vista Terraço" offsetX="1125" offsetY="643" />
       <hotspot source="Petplace" offsetX="858" offsetY="665" />
-      <highres src="images/highres/Grantec-Frame-59.jpg?t=1765484274" />
+      <highres src="images/highres/Grantec-Frame-59.jpg?t=1765488167" />
     </image>
   </images>
 </config>
